@@ -1,17 +1,6 @@
 # Rock Paper Scissors Game
 
-- With this app you can create your own to do list.
-- Task can be marked as complete.
-- Task can be edited or deleted.
-- All tasks can be deleted with a single button.
-
-# used in this project:
-- React Navigation
-- React Redux (Redux Toolkit)
-- Creating Custom Component
-- Material Icon Package
-
-![](src/assets/)
-![](src/assets/1.jpg)
-![](src/assets/2.jpg)
-![](src/assets/3.jpg)
+![](src/assets/rockPaperScissors1.jpg)
+![](src/assets/rockPaperScissors2.jpg)
+![](src/assets/rockPaperScissors3.jpg)
+![](src/assets/rockPaperScissors4.jpg)
